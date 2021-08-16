@@ -37,16 +37,10 @@
 flutter pub run build_runner build
 ```
 
-## Don't Forget to
-
-- Star the Repository [⭐](https://github.com/fionicholas/Movie-Flutter)
-- Follow [My Github Account](https://github.com/fionicholas/)
-
 ## License
 ```
 MIT License
 
-Copyright (c) 2020 Fiorent Nicholas Yehardi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
